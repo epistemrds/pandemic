@@ -1,4 +1,10 @@
-Just writing some ideas.
+= Overview
+There will be another pandemic. There will be another earthquake. There will be another tsunami. There will be another meteor impact. There will be another disaster.
+Why not start a worldwide consortium of skilled analysts to anticipate the future disasters and make plans for dealing with them?
+We were reasonbly but certainly not sufficiently prepared for the Wuhanvirus Pandemic. Many problems emerged. 
+One of those problems was the political opportunism of our leaders to advance their own ideological agendas while everyone else was distracted. Another problem was profiteering and exploiting the temporary weakness of others to make them permanently weaker.
+The pandemic is understood at the levels of biology, morality, cultural and social change and rational response.
+
 I'm trying to figure out how to get people to put some new laws in place for the next pandemic or national emergency.
 We know there is going to be one.
 It might not be global but something is always going wrong somewhere.
@@ -23,5 +29,10 @@ I can't even begin to imagine what the "How To Mothball an Aircraft Carrier" man
 
 The police also need protection from being given "illegitimate" rules by politicians. Vagueness allows politicians to invent interpretations (e.g. the governor of Michigan banning the sale of flower seeds) and the police are compelled to enforce these rules. This situation brings the police into conflict with society and erodes public confidence. This damage lasts a long time.
 
-These are just a few of the ideas I'm trying to put out there.
-I'm not having much luck.
+What can be done?
+The best single option might be to take advantage of the enormous talent in simulation modelling and gaming which is out there as well as the idea of creating a collaboration to come up with scenarios and options for future lockdowns and unlockings. 
+
+Simulation models for Weather, Climate, Urban Planning, and the Civilisation series all have the nuances and power to run many scenarios.
+Military schools are forever refighting old battles and imagining new ones.
+The first phase of this crowd-sourced and open-sourced project could be just to decide what it was supposed to be doing.
+
